@@ -9,7 +9,7 @@ import {
 import './styles.scss'
 import { SiArduino } from "react-icons/si";
 import { GiCircuitry } from "react-icons/gi";
-import {IconContext} from "react-icons";
+import { DiCode } from "react-icons/di";
 
 export const data = [
     {
@@ -59,8 +59,8 @@ export const data = [
           <img src='./assets/matlab-icon.png' alt="icon"/>
         </div>,
         <div className="tech-item">
-          <p>Arduino</p>
-          <SiArduino className="tech-pic" />
+          <p>C/C++</p>
+          <DiCode className="tech-pic" />
         </div>,
         <div className="tech-item">
           <p>EAGLE</p>
