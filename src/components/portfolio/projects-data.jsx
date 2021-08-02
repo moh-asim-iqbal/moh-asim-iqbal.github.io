@@ -7,7 +7,6 @@ import {
   FaDatabase} from 'react-icons/fa';
 
 import './styles.scss'
-import { SiArduino } from "react-icons/si";
 import { GiCircuitry } from "react-icons/gi";
 import { DiCode } from "react-icons/di";
 
